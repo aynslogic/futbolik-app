@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "build": "20261127080914",
-  "generated_at": "2026-11-27T08:09:14.745Z",
+  "build": "20261128073610",
+  "generated_at": "2026-11-28T07:36:10.132Z",
   "min_app_version": "1.6.3",
-  "match_count": 440,
+  "match_count": 408,
   "league_count": 63
 }
